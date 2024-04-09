@@ -61,7 +61,8 @@ The model consists of several convolutional layers followed by max-pooling layer
 
 ## Results
 
-After training the model for 80 epochs, it achieved a test accuracy of XX%. These results demonstrate the model's effectiveness in classifying music genres based on audio features.
+After training CNN model for 80 epochs, it achieved a test accuracy of 83%. 
+ANN we get highest with 89% test accuracy.
 
 ## Future Work
 
