@@ -1,5 +1,5 @@
 
-# Music Genre Classification Using CNN
+# Music Genre Classification Using CNN / RNN / CRNN / ANN
 
 This project aims to classify music genres using Convolutional Neural Networks (CNNs). It extracts Mel-Frequency Cepstral Coefficients (MFCCs) from audio files as features for training the CNN model. The dataset consists of music files from various genres, divided into segments to increase the data volume and improve the model's accuracy.
 
