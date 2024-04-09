@@ -62,7 +62,7 @@ The model consists of several convolutional layers followed by max-pooling layer
 ## Results
 
 After training CNN model for 80 epochs, it achieved a test accuracy of 83%. 
-ANN we get highest with 89% test accuracy.
+ANN we get highest with 94% test accuracy.
 
 ## Future Work
 
