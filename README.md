@@ -1,5 +1,5 @@
 
-# Music Genre Classification Using CNN / RNN / CRNN / ANN
+# Music Genre Classification Using CNN
 
 This project aims to classify music genres using Convolutional Neural Networks (CNNs). It extracts Mel-Frequency Cepstral Coefficients (MFCCs) from audio files as features for training the CNN model. The dataset consists of music files from various genres, divided into segments to increase the data volume and improve the model's accuracy.
 
@@ -61,7 +61,7 @@ The model consists of several convolutional layers followed by max-pooling layer
 
 ## Results
 
-After training the model for 80 epochs, it achieved a test accuracy of 87%. These results demonstrate the model's effectiveness in classifying music genres based on audio features.
+After training the model for 80 epochs, it achieved a test accuracy of XX%. These results demonstrate the model's effectiveness in classifying music genres based on audio features.
 
 ## Future Work
 
@@ -75,3 +75,17 @@ After training the model for 80 epochs, it achieved a test accuracy of 87%. Thes
 - [Fangyu Zhu](fazhu@ucsd.edu)
 - [Haitao Peng](201900800133@mail.sdu.edu.cn)
 - [Zuge Li](zgli@ucdavis.edu)
+
+## Acknowledgments
+
+- Mention any datasets, libraries, or individuals that were crucial to the completion of your project.
+
+## Publication
+
+This project is part of our research presented in the paper titled ["Music Classification with Convolutional and Artificial Neural Network"](https://iopscience.iop.org/article/10.1088/1742-6596/2580/1/012059) by Fangyu Zhu, Haitao Peng, Siwei Tan, and Zuge Li. The paper details the methodology, experiments, and results of using CNNs and ANNs for music genre classification. 
+
+Abstract: Music genre classification focuses on efficiently finding expected music with a similar genre through numerous melodies, which could better satisfy the tastes and expectations of the users when listening to music. This paper proposes a new method to classify different kinds of music with Artificial Neural networks (ANN) and Convolutional Neural Networks (CNNs). 
+
+For further details, please refer to our publication:
+
+Li, Zuge & Peng, Haitao & Tan, Siwei & Zhu, Fangyu. (2023). Music classification with convolutional and artificial neural network. Journal of Physics: Conference Series. 2580. 012059. 10.1088/1742-6596/2580/1/012059.
