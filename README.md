@@ -7,7 +7,7 @@ This project aims to classify music genres using Convolutional Neural Networks (
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.8 +
 - Libraries: `librosa`, `matplotlib`, `numpy`, `keras`, `sklearn`
 
 Install the required libraries using pip:
