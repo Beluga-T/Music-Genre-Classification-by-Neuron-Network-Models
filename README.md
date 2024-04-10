@@ -77,9 +77,6 @@ ANN we get highest with 94% test accuracy.
 - [Haitao Peng](201900800133@mail.sdu.edu.cn)
 - [Zuge Li](zgli@ucdavis.edu)
 
-## Acknowledgments
-
-- Mention any datasets, libraries, or individuals that were crucial to the completion of your project.
 
 ## Publication
 
